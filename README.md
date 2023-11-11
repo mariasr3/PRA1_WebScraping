@@ -1,5 +1,5 @@
 # Practica 1: Web Scraping 
-*Autores:***Joana Llauradó Pont, Maria Sopena Rios**
+*Autores:* **Joana Llauradó Pont, Maria Sopena Rios**
 
 *Novembre 2023*
 ## “Obres de teatre a Barcelona” 
