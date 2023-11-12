@@ -1,4 +1,4 @@
-# Practica 1: Web Scraping 
+# Pràctica 1: Web Scraping 
 *Autores:* **Joana Llauradó Pont, Maria Sopena Rios**
 
 *Novembre 2023*
@@ -12,6 +12,13 @@ En aquesta pràctica s’elabora un cas pràctic orientat a aprendre a identific
 - **requirements.txt**: conté una llista les llibreries necessàries per executar el codi i com instal·lar-les. 
 
 ### Execució
+
+```{r, engine='bash', code_block_name} 
+pip install jupyter
+pip install notebook 
+jupyter notebook teatre_bcn.ipynb
+
+```
 
 
 ### Dataset 
