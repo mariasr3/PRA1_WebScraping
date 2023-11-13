@@ -9,7 +9,7 @@ En aquesta pràctica s’elabora un cas pràctic orientat a aprendre a identific
 - **README.md**
 - **source/codi.py**:
 - **data/teatre_novembre_2023.csv**: dataset resultant del córrer el codi
-- **requirements.txt**: conté una llista les llibreries necessàries per executar el codi i com instal·lar-les. 
+- **aource/requirements.txt**: conté una llista les llibreries necessàries per executar el codi
 
 ### Execució
 
@@ -17,7 +17,6 @@ En aquesta pràctica s’elabora un cas pràctic orientat a aprendre a identific
 pip install jupyter
 pip install notebook 
 jupyter notebook teatre_bcn.ipynb
-
 ```
 
 
