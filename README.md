@@ -7,9 +7,10 @@ En aquesta pràctica s’elabora un cas pràctic orientat a aprendre a identific
 
 ### Arxius 
 - **README.md**
-- **source/codi.py**:
+- **source/main.py**: codi per realitzar el web scrapping
+- **source/functions.py**: codi per realitzar el web scrapping
+- **asource/requirements.txt**: conté una llista les llibreries necessàries per executar el codi
 - **data/teatre_novembre_2023.csv**: dataset resultant del córrer el codi
-- **aource/requirements.txt**: conté una llista les llibreries necessàries per executar el codi
 
 ### Execució
 
@@ -21,4 +22,5 @@ jupyter notebook teatre_bcn.ipynb
 
 
 ### Dataset 
-El dataset *teatre_novembre_2023.csv* està disponible a Zenodo amb el DOI: 
+El dataset *teatre_novembre_2023.csv* està disponible a Zenodo.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10123665.svg)](https://doi.org/10.5281/zenodo.10123665)
