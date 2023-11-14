@@ -8,7 +8,8 @@ En aquesta pràctica s’elabora un cas pràctic orientat a aprendre a identific
 ### Arxius 
 - **README.md**
 - **source/main.py**: codi per realitzar el web scrapping
-- **source/functions.py**: codi per realitzar el web scrapping
+- **source/functions.py**: funció per cada extreure columna/camp que trobem al dataset final
+-  **source/parameters.py**: paràmetres per fer una advance search. L'usuari pot seleccionar la data, ell lloc, el tipus d'obra, el rang de preu i a més pot especificar l'ordre.
 - **asource/requirements.txt**: conté una llista les llibreries necessàries per executar el codi
 - **data/teatre_novembre_2023.csv**: dataset resultant del córrer el codi
 
